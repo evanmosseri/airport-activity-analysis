@@ -1,0 +1,5 @@
+python_google_places==1.4.1
+more_itertools==4.1.0
+percache==0.3.0
+populartimes==2.0
+requests==2.18.4
