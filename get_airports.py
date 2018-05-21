@@ -9,7 +9,7 @@ import sys
 
 import time
 
-from credentials import *
+from credentials import API_KEY
 from googleplaces import GooglePlaces, types, lang
 import percache
 
